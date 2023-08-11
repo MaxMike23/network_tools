@@ -1,5 +1,4 @@
 import unittest
-import subprocess
 from NetworkTools.network_tools import *
 
 class TestNetworkTools(unittest.TestCase):
